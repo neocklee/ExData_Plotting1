@@ -1,4 +1,3 @@
-setwd("C:/LeeCK/DataScience/Module4/Week1")
 library(sqldf)
 
 ## read file
